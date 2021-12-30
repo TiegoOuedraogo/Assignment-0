@@ -2,7 +2,7 @@ body{
     background-color: #333;
     color: #f4f4f4;
 }
-
+/*  */
 h1{
     font-size: 40px;
     text-align: justify;
@@ -34,4 +34,11 @@ li{
 }
 .difference{
     color: red;
+}
+.earth-title{
+    color: lightsalmon;
+}
+
+.mars-title{
+    color: lightgreen;
 }
