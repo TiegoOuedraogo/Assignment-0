@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+header{
+    background: #333;
+    color: aquamarine;
+    text-align: center;
+    padding: 25px , 0px;
+    margin-bottom: 25px;
+    /* margin-left: auto;
+    width: 400px; */
+    margin-right: auto;
+}
+main{
+    background: lightgrey;
+    width: 600px;
+    padding: 25px;
+    border: solid 5px red;
+    margin:  0 auto;
+}
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px , 0;
+    margin-top: 25px;
+    margin: 0 auto;
+
+}
